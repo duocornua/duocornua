@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/header-image)
+![image](https://github.com/duocornua/duocornua/blob/main/header-image.png)
 
 ## Hi, Welcome to my Github profile. My name is Vuong Kien Hao
 ### ⚡ Occupation: University Student
