@@ -8,6 +8,7 @@
 
 - Currently studying at FPT University.
 - Dedicating my studies towards the path of Technologies.
+- Aspiring to be Game-Dev & Web Design.
 
 <!--
 <p align="center">
