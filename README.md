@@ -1,6 +1,7 @@
 ![image](https://github.com/duocornua/duocornua/blob/main/header-image.png)
 
-## Hi, Welcome to my Github profile. My name is Vuong Kien Hao
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+H%C3%A0o!;Welcome+to+my+Github+profile.;console.log(%22Hello+World!%22)" alt="Typing SVG" /></a>
+
 ### ⚡ Occupation: University Student
 
 ### About me
@@ -8,11 +9,19 @@
 - Currently studying at FPT University.
 - Dedicating my studies towards the path of Technologies.
 
-## My stats
-
+<!--
 <p align="center">
 <img align="center" width="1000" height="auto" src="https://github-readme-stats.vercel.app/api?username=duocornua&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 </p>
+-->
+
+<a href="https://github.com/duocornua?tab=repositories">
+    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=duocornua&count_private=true&show_icons=true&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>&nbsp;
+
+<a href="https://github.com/theajack">
+    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duocornua&hide=html&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>
 
 ### Contact me
 
