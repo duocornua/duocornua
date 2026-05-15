@@ -2,6 +2,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+H%C3%A0o!;Welcome+to+my+Github+profile.;System.out.println(%22Hello+World!%22)" alt="Typing SVG" /></a>
 
+---
+
 ### ⚡ Occupation: University Student
 
 ### About me
@@ -16,6 +18,8 @@
     <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=duocornua&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>
 
+---
+
 ### Contact me
 
 <p align="left">
@@ -25,11 +29,14 @@
 <a href="https://github.com/duocornua" target="_blank" ><img src="https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.coursera.org/learner/vuongkienhao" target="" ><img src="https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=coursera&logoColor=white" /></a>
 
+---
+
 ### 👀 Profile Views
 
 <div align="center">
   <img src="https://count.getloli.com/@duocornua?theme=booru-helltaker" alt="Profile Views" />
   <br>
+    <b>📅 Views Since:</b> May 15, 2026
 </div>
 
 ---
