@@ -1,4 +1,6 @@
-![image](https://github.com/duocornua/duocornua/blob/main/header-image.png)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FFFFF,50:BC13FE,100:0072FF&text=Vương%20Kiến%20Hào&reversal=false&animation=twinkling&desc=Software%20Engineer&descAlignY=70&textBg=false&fontColor=FFFFFF&strokeWidth=2&stroke=000000&descSize=30" />
+</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+H%C3%A0o!;Welcome+to+my+Github+profile.;System.out.println(%22Hello+World!%22)" alt="Typing SVG" /></a>
 
@@ -22,12 +24,35 @@
 
 ### Contact me
 
-<p align="left">
-<a href="mailto:vuongkienhao2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=mailboxdotorg&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/vuongkienhao/" target="_blank"><img src="https://img.shields.io/badge/-%230077B5.svg?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-<a href="https://www.youtube.com/@DuoCornua" target="_blank"><img src="https://img.shields.io/badge/-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-<a href="https://github.com/duocornua" target="_blank" ><img src="https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.coursera.org/learner/vuongkienhao" target="" ><img src="https://img.shields.io/badge/-%231877F2.svg?style=for-the-badge&logo=coursera&logoColor=white" /></a>
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/haokienvuong/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/vuongkienhao/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:vuongkienhao2006@gmail.com)
+
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,java,python,c,html,css&theme=dark&perline=10" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,docker,github,vscode,postman,figma,photoshop,windows&theme=dark&perline=10" />
+  <br>
+</div>
+
+---
+
+### System Analytics
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=duocornua&theme=radical&hide_border=true&background=0D1117&ring=BC13FE&fire=BC13FE&currStreakLabel=BC13FE" width="80%" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duocornua&custom_title=Code+Frequency&bg_color=0D1117&color=BC13FE&line=00F2FF&point=ffffff&area_color=BC13FE&area=true&hide_border=true" width="100%" />
+</div>
 
 ---
 
@@ -39,8 +64,6 @@
     <b>📅 Views Since:</b> May 15, 2026
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,100:00F2FF&height=120&section=footer&animation=twinkling&desc=Made%20with%20Code%20&descSize=20&descAlignY=50&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,100:00F2FF&height=120&section=footer&animation=twinkling&desc=&descSize=20&descAlignY=50&fontColor=ffffff" width="100%" />
 </div>
