@@ -61,7 +61,7 @@
 <div align="center">
   <img src="https://count.getloli.com/@duocornua?theme=booru-helltaker" alt="Profile Views" />
   <br>
-    <b>📅 Views Since:</b> May 15, 2026
+    <b>📅 Counting since:</b> May 15, 2026
 </div>
 
 <div align="center">
