@@ -76,5 +76,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,100:00F2FF&height=120&section=footer&animation=twinkling&desc=&descSize=20&descAlignY=50&fontColor=ffffff" width="100%" />
 </div>
-
- ###### Vương Kiến Hào___________________________________________________________________________________________________© 2026 Vương Kiến Hào – Crafted with ❤️
