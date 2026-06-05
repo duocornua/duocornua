@@ -8,7 +8,7 @@
 
 ### ⚡ Occupation: University Student
 
-### About me <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### About me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=20C20E&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=620&height=120&&lines=-+Currently+studying+at+FPT+University.;-+Dedicating+my+studies+towards+the+path+of+Technologies.;-+Aspiring+to+be+a+game+developer+%26+web+developer." alt="Typing SVG" /></a> 
 
@@ -22,7 +22,7 @@
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-### Contact me <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### Contact me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-### System Analytics
+### System Analytics <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
@@ -58,7 +58,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### 👀 Profile Views
+###  Profile Views <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
 <div align="center">
   <img src="https://count.getloli.com/@duocornua?theme=booru-helltaker" alt="Profile Views" />
