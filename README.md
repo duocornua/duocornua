@@ -1,3 +1,5 @@
+![onyqx5ayj1kb1](https://github.com/user-attachments/assets/03557315-3a10-4bfd-887a-e4f982e0e61d)
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:FFFFF,50:BC13FE,100:0072FF&text=Vương%20Kiến%20Hào&reversal=false&animation=twinkling&desc=Software%20Engineer&descAlignY=70&textBg=false&fontColor=FFFFFF&strokeWidth=2&stroke=000000&descSize=30" />
 </div>
@@ -8,7 +10,7 @@
 
 ### ⚡ Occupation: University Student
 
-### About me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+### About me
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=20C20E&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=620&height=120&&lines=-+Currently+studying+at+FPT+University.;-+Dedicating+my+studies+towards+the+path+of+Technologies.;-+Aspiring+to+be+a+game+developer+%26+web+developer." alt="Typing SVG" /></a> 
 
@@ -22,8 +24,7 @@
 
 ![Border](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6)
 
-### Contact me <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-
+### Contact me
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> <br>
